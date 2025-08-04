@@ -712,3 +712,8 @@ text ThatsNotAFossil{
 	"showing me that.\l"
 	"That's not a Pokémon fossil…"
 }
+
+text Pointless{
+	"This is a pointless one\n"
+	"To fix stuff......"
+}
